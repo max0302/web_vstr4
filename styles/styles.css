@@ -1,0 +1,43 @@
+*{
+    color: white;
+    font-family: Arial, sans-serif;
+}
+.nav{
+    display: flex;
+    justify-content: space-around;
+    background-color: deeppink;
+}
+body{
+    background-color: black;
+    text-decoration: chocolate;
+}
+.nav__menu{
+    display:flex;
+    justify-content: space-between;
+    width: 30%;
+    align-items: center;
+    list-style: none;
+    font-size: 18px;
+}
+
+.vremena_goda{
+    background-color: white;
+    color: black;
+}
+
+.zima{
+    color: blue;
+}
+
+.vesna{
+    color: green;
+}
+
+.leto{
+    color:yellow;
+}
+
+.osen{
+    color:orangered;
+}
+
